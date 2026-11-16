@@ -1,0 +1,31 @@
+# GIT COMMANDS
+
+1. git init
+   - Creates a new Git repository.
+
+2. git status
+   - Checks the current file status.
+
+3. git add .
+   - Adds all changes to staging.
+
+4. git commit -m "message"
+   - Saves changes in Git.
+
+5. git branch
+   - Shows local branches.
+
+6. git branch -a
+   - Shows all local and remote branches.
+
+7. git log --oneline
+   - Shows commit history.
+
+8. git switch main
+   - Switches to the main branch.
+
+9. git pull
+   - Downloads the latest changes.
+
+10. git push
+    - Uploads your commits to GitHub.
